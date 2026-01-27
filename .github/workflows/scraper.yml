@@ -33,7 +33,7 @@ jobs:
           git add eu_fsf_sanctions.json
           git commit -m "Auto update eu_fsf_sanctions.json [$(date -u)]" || echo "No changes"
           git push
-
+ 
       - name: Send alert email on failure
         if: failure()
         uses: dawidd6/action-send-mail@v3
