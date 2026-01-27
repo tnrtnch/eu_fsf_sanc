@@ -78,19 +78,19 @@ eu_fsf_sanc/
 ├── eu/
 │   ├── spiders/
 │   │   └── eu_spider.py        # Main spide
-│   ├── eu_fsf_sanctions.json   # outpu file
 │   ├── pipelines.py            # JSON output pipeline
 │   ├── validators.py           # CSV schema validation
 │   ├── middlewares.py  
 │   ├── items.py                # Item definitions
 │   └── settings.py
+├── eu_fsf_sanctions.json       # outpu file
 ├── scraper.yaml                # Configuration file
 ├── scrapy.cfg
 ├── requirements.txt
 └── README.md
 ```
-
 ---
+
 
 ## Configuration (`scraper.yaml`)
 
@@ -190,6 +190,12 @@ Typical setup:
 * Scrapy-native architecture
 
 ---
+
+## Mail alert
+
+Failure notifications are automatically sent via email using GitHub Actions.
+---
+
 
 ## License
 
