@@ -1,8 +1,55 @@
-# EU Sanctions Scraper
+## Automation (GitHub Actions – External Scheduler)
 
-This project is a **Scrapy-based data pipeline** that automatically downloads, processes, validates, and exports the **EU Financial Sanctions List** as a clean JSON file.
+This repository is designed to run **as a worker**, triggered by an external GitHub Actions scheduler.
 
-The solution is designed to be **automation-friendly**, **schema-aware**, and suitable for **daily execution via GitHub Actions / cron jobs**.
+It does **not** rely on its own `schedule` event.
+
+Instead, execution is initiated via a dedicated **cron trigger repository** using the GitHub `repository_dispatch` mechanism.
+
+---
+
+### How Automation Works
+
+Typical execution flow:
+
+1. **Cron Trigger Repository**
+   - Runs on a scheduled GitHub Actions workflow (hourly / daily)
+   - Sends a `repository_dispatch` event
+
+2. **This Worker Repository**
+   - Receives the dispatch event
+   - Runs the Scrapy spider
+   - Validates and processes EU FSF sanctions data
+   - Generates `eu_fsf_sanctions.json`
+   - Commits and pushes the updated JSON file automatically
+
+---
+
+### Why This Architecture?
+
+This split architecture is intentional and provides:
+
+- Reliable scheduling (avoids GitHub Actions `schedule` inconsistencies)
+- Clear separation of responsibilities
+- Easier debugging and monitoring
+- Production-grade automation pattern
+
+---
+
+### Trigger Types Supported
+
+- `repository_dispatch` (primary, automated)
+- `workflow_dispatch` (manual runs for testing)
+
+---
+
+### Notes
+
+- This repository **must have write permissions** enabled for GitHub Actions
+- JSON output is force-updated on every run
+- No CSV files are persisted — CSV is used only as an in-memory source
+
+
 
 ---
 
@@ -14,6 +61,7 @@ The solution is designed to be **automation-friendly**, **schema-aware**, and su
 * Extracts and normalizes:
 
   * `name`
+  * `schema`
   * `sanctions`
   * `aliases`
 * Handles missing values safely (no `NaN` in outputs)
@@ -26,7 +74,7 @@ The solution is designed to be **automation-friendly**, **schema-aware**, and su
 ## Project Structure
 
 ```
-eu/
+eu_fsf_sanc/
 ├── eu/
 │   ├── spiders/
 │   │   └── eu_spider.py        # Main spide
@@ -34,11 +82,11 @@ eu/
 │   ├── pipelines.py            # JSON output pipeline
 │   ├── validators.py           # CSV schema validation
 │   ├── middlewares.py  
-│   ├── run.py                  # Optional standalone runner
 │   ├── items.py                # Item definitions
 │   └── settings.py
 ├── scraper.yaml                # Configuration file
 ├── scrapy.cfg
+├── requirements.txt
 └── README.md
 ```
 
@@ -121,7 +169,7 @@ This prevents silent data corruption.
 
 This project is suitable for:
 
-* Daily scheduled runs
+* Triggered by an external scheduler repository
 * Automatic commits of updated JSON files
 * CI/CD pipelines
 
@@ -150,21 +198,9 @@ Please verify data usage rights with the original data provider.
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Pull requests and improvements are welcome.
 
 ---
 
-## 📬 Questions
-
-If you need:
-
-* GitHub Actions workflow
-* Additional fields
-* Excel export
-* Versioned outputs
-
-Feel free to extend the pipeline.
-
-Happy scraping!
