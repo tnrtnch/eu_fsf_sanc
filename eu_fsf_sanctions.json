@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T18:32:45.673401",
+  "generated_at": "2026-02-01T19:23:04.099602",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -4592,12 +4592,6 @@
       "aliases": "CENTRAAL ONDERZOEKSINSTITUUT BUREVESTNIK;CENTRINIS MOKSLINIŲ TYRIMŲ INSTITUTAS „BUREVESTNIK“;INSTITUT CENTRAL DE RECHERCHE BUREVESTNIK S.A.;INSTITUTO CENTRAL DE INVESTIGAÇÃO BUREVESTNIK;INSTITUTO DE INVESTIGACIÓN CENTRAL BUREVESTNIK;INSTITUTUL CENTRAL DE CERCETARE BUREVESTNIK;АО ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ 'БУРЕВЕСТНИК';„BUREVESTNIK” KÖZPONTI KUTATÓINTÉZET"
     },
     {
-      "name": "Kinda AL-SHAMMAT",
-      "schema": "Person",
-      "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
-      "aliases": "Shmat"
-    },
-    {
       "name": "Mohsen Hojati",
       "schema": "Person",
       "sanctions": "IRN - 2023/2196 (OJ L17102023) - 2023-10-17;IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
@@ -6029,12 +6023,6 @@
       "name": "Mojtaba MALEKI",
       "schema": "Person",
       "sanctions": "IRN - 2020/510 (OJ L113) - 2020-04-08",
-      "aliases": ""
-    },
-    {
-      "name": "Victoria FURTUNĂ",
-      "schema": "Person",
-      "sanctions": "MDA - 2025/1434 (OJ L202501434) - 2025-07-15",
       "aliases": ""
     },
     {
@@ -11328,12 +11316,6 @@
       "schema": "Person",
       "sanctions": "TAQA - 2024/372 (OJ L18012024) - 2010-04-22",
       "aliases": "Abou Mouhadjir;Djaafar Abou Mohamed;Mohamed Ould Ahmed Ould Ali;Tayeb Nail;اﺑﻮ ﻣﮭﺎﺟﺮ;اﻟﻄﯿﺐ ﻧﺎﯾﻞ"
-    },
-    {
-      "name": "محمد حمشو",
-      "schema": "Person",
-      "sanctions": "SYR - 2015/108 (OJ L20) - 2015-01-26;SYR - 2020/716 (OJ L168) - 2015-01-27",
-      "aliases": "Mohamed Hamcho;Mohammed HAMCHO"
     },
     {
       "name": "Ministry of Petroleum",
@@ -25670,10 +25652,22 @@
       "aliases": "Ghassan Jaoudat Ismael;غسان جودت اسماعيل"
     },
     {
+      "name": "Kinda AL-SHAMMAT",
+      "schema": "Person",
+      "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
+      "aliases": "Shmat"
+    },
+    {
       "name": "Konstantin Alexandrovich KUZMIN",
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Konstantin Aleksandrovitj KUZMIN;Konstantin Oleksandrovych KUZMIN;Константин Александрович КУЗЬМИН;Костянтин Олександрович КУЗЬМIН"
+    },
+    {
+      "name": "Victoria FURTUNĂ",
+      "schema": "Person",
+      "sanctions": "MDA - 2025/1434 (OJ L202501434) - 2025-07-15",
+      "aliases": ""
     },
     {
       "name": "Vladimir Anatolievich SHAMANOV",
@@ -25770,6 +25764,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2023/721 (OJ L94) - 2011-04-12",
       "aliases": ""
+    },
+    {
+      "name": "محمد حمشو",
+      "schema": "Person",
+      "sanctions": "SYR - 2015/108 (OJ L20) - 2015-01-26;SYR - 2020/716 (OJ L168) - 2015-01-27",
+      "aliases": "Mohamed Hamcho;Mohammed HAMCHO"
     },
     {
       "name": "Yauhen PUSTAVY",
