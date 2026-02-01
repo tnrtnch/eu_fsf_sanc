@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T16:27:43.207189",
+  "generated_at": "2026-02-01T17:22:55.907317",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -12320,12 +12320,6 @@
       "aliases": "Alexandr Moroz;Александр Иванович МОРОЗ"
     },
     {
-      "name": "Pavel Alekseevich MARINYCHEV",
-      "schema": "Person",
-      "sanctions": "UKR - 2024/196 (OJ L03012024) - 2024-01-03",
-      "aliases": "Pavel Aleksejevitj MARINYTJEV;Pavel Marinyčev;Павел Алексеевич МАРИНЫЧЕВ"
-    },
-    {
       "name": "KOTI CORP",
       "schema": "Organization",
       "sanctions": "PRK - 2022/1503 (OJ L235) - 2018-03-30",
@@ -19736,12 +19730,6 @@
       "aliases": "Jurij Aleksandrovitj PRONKO;Юрий Александрович ПРОНЬКО"
     },
     {
-      "name": "Vladislav Nikolaevich GOLOVIN",
-      "schema": "Person",
-      "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
-      "aliases": "Владислав Николаевич ГОЛОВИН"
-    },
-    {
       "name": "Star Sapphire Group of Companies",
       "schema": "Organization",
       "sanctions": "MMR - 2023/2789 (OJ L11122023) - 2023-12-11",
@@ -25304,6 +25292,12 @@
       "aliases": "Artem Pavlovich MARCHEVSKIY;Artem Pavlovich MARCHEVSKYI;Artem Pavlovitš MARTŠEVSKYI;Artěm Pavlovič MARČEVSKIJ;Arťom Marčevskij;Артем Павлович МАРЧЕВСКИЙ;Артем Павлович МАРЧЕВСЬКИ;Артем Павлович МАРЧЕВСЬКИЙ;Артьом Марчевский"
     },
     {
+      "name": "Vladislav Nikolaevich GOLOVIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
+      "aliases": "Владислав Николаевич ГОЛОВИН"
+    },
+    {
       "name": "سید صادق حسینی",
       "schema": "Person",
       "sanctions": "IRN - 2022/2231 (OJ L293-I) - 2022-11-14",
@@ -25788,6 +25782,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/997 (OJ L219I) - 2021-06-21",
       "aliases": "Kanstantsin Fiodaravich BYCHAK;Kanstantsin Fjodaravitj BYTJAK;Konstantin Fedorovich BYCHEK;Konstantin Fjodorovitj BYTJEK;Канстанцін Фёдаравіч БЫЧАК"
+    },
+    {
+      "name": "Pavel Alekseevich MARINYCHEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2024/196 (OJ L03012024) - 2024-01-03",
+      "aliases": "Pavel Aleksejevitj MARINYTJEV;Pavel Marinyčev;Павел Алексеевич МАРИНЫЧЕВ"
     },
     {
       "name": "Sergey Yurievich GLAZYEV",
