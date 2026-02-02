@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T16:38:27.576621",
+  "generated_at": "2026-02-02T17:36:50.774570",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -34098,6 +34098,168 @@
       "schema": "Person",
       "sanctions": "BLR - 2025/386 (OJ L25022025) - 2022-06-03",
       "aliases": "Ivan GALAVATIJ;Ivan Halavaty;Ivan Ivanavitj HALAVATY;Ivan Ivanovich GOLOVATY;Ivan Ivanovitj GOLOVATYJ;Iван Iванавiч ГАЛАВАТЫ;Иван Галавати;Иван Иванович ГОЛОВАТЫЙ"
+    },
+    {
+      "name": "Vadim Viktorovich BULGAKOV",
+      "schema": "Person",
+      "sanctions": "HR - 2025/1789 (OJ L202501789) - 2025-09-05",
+      "aliases": "Vadym Viktorovych BULHAKOV;Вадим Викторович БУЛГАКОВ"
+    },
+    {
+      "name": "SCT Bankers Company Branch",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
+      "aliases": "SCT Bankers;SCT Bankers Kish Company (PJS);Sorinet Commercial Trust;Sorinet Commercial Trust Bankers Ltd. (SCT)"
+    },
+    {
+      "name": "Mazandaran Cement Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Rahkar Sanaye Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": "MITEC;Modern Industries Technique Company;Rahkar Company;Rahkar Industries;Rahkar Sanaye Novin"
+    },
+    {
+      "name": "Aleksei Nikolaevich PIKIN",
+      "schema": "Person",
+      "sanctions": "HR - 2025/1789 (OJ L202501789) - 2025-09-05",
+      "aliases": "Alexey Nikolaevich PIKIN;Алексей Николаевич ПИКИН"
+    },
+    {
+      "name": "EDBI Stock Brokerage Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Center for Agricultural Research and Nuclear Medicine",
+      "schema": "Person",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": "Karaji Agricultural and Medical Research Center;Nuclear Research Center for Agriculture and Medicine"
+    },
+    {
+      "name": "Novin Energy Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": "Pars Novin"
+    },
+    {
+      "name": "Jabber Ibn Hayan",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2007-04-24",
+      "aliases": ""
+    },
+    {
+      "name": "Karaj Nuclear Research Centre",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Kavoshyar Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Pars Trash Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Mesbah Energy Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Pejman Industrial Services Corporation",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Pishgam (Pioneer) Energy Industries",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "Sabalan Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": ""
+    },
+    {
+      "name": "MODLEX",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2008-06-24",
+      "aliases": "Ministry of Defense Logistics Export"
+    },
+    {
+      "name": "Andrey Viktorovich POLYAKOV",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Андрей Викторович ПОЛЯКОВ"
+    },
+    {
+      "name": "Andrey Vadimovich MIKHAILICHENKO",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Андрей Вадимович МИХАЙЛИЧЕНКО"
+    },
+    {
+      "name": "Aleksandr Aleksandrovich SHTODA",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Александр Александрович ШТОДА"
+    },
+    {
+      "name": "Andrey Sergeevich SAPITSKIY",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Андрей Сергеевич САПИЦКИЙ"
+    },
+    {
+      "name": "Timur Savelevich VAKHRAMEEV",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Тимур Савельевич ВАХРАМЕЕВ"
+    },
+    {
+      "name": "Artemy Alexeevich TELMINOV",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Артемий Алексеевич ТЕЛЬМИНОВ"
+    },
+    {
+      "name": "Boris Ashirbaevich KOZHEVNIKOV",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Борис Аширбаевич КОЖЕВНИКОВ"
+    },
+    {
+      "name": "Maxim Alexandrovich PANIN",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Максим Александрович ПАНИН"
+    },
+    {
+      "name": "Marina Viktorovna USHAKOVA",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Марина Викторовна УШАКОВА"
+    },
+    {
+      "name": "Svetlana Sergeevna RYGALOVA",
+      "schema": "Person",
+      "sanctions": "RUS - 2025/2356 (OJ L202502356) - 2025-11-20",
+      "aliases": "Светлана Сергеевна РЫГАЛОВА"
     }
   ]
 }
