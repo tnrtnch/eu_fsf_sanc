@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T08:40:31.607348",
+  "generated_at": "2026-02-05T09:42:14.400077",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -17822,6 +17822,12 @@
       "aliases": ""
     },
     {
+      "name": "Center for Agricultural Research and Nuclear Medicine",
+      "schema": "Person",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": "Karaji Agricultural and Medical Research Center;Nuclear Research Center for Agriculture and Medicine"
+    },
+    {
       "name": "Marina Yuryevna ZAKHAROVA",
       "schema": "Person",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -34254,12 +34260,6 @@
       "schema": "Person",
       "sanctions": "BLR - 2025/386 (OJ L25022025) - 2022-06-03",
       "aliases": "Ivan GALAVATIJ;Ivan Halavaty;Ivan Ivanavitj HALAVATY;Ivan Ivanovich GOLOVATY;Ivan Ivanovitj GOLOVATYJ;Iван Iванавiч ГАЛАВАТЫ;Иван Галавати;Иван Иванович ГОЛОВАТЫЙ"
-    },
-    {
-      "name": "Center for Agricultural Research and Nuclear Medicine",
-      "schema": "Person",
-      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
-      "aliases": "Karaji Agricultural and Medical Research Center;Nuclear Research Center for Agriculture and Medicine"
     }
   ]
 }
