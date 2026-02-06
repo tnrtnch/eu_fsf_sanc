@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T12:55:51.997630",
+  "generated_at": "2026-02-06T14:02:26.105385",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -300,12 +300,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2022-04-08",
       "aliases": "Svetlana Nikolajevna PODLIPAJEVA;Светлана Николаевна ПОДЛИПАЕВА"
-    },
-    {
-      "name": "Seyed Hadi MANSOURI",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
-      "aliases": "منصوری هادی سید"
     },
     {
       "name": "Hurras al-Deen",
@@ -4862,6 +4856,12 @@
       "aliases": "Gasht-e-Ershad;Gasht-e-Ershad islámské hlídky;Iraani moraalipolitsei;Iraanse zedenpolitie;Iranin siveyspoliisi;Iranische Sittenpolizei;Irano moralės policija;Irans moralpolis;Irans moralpoliti;Iranska policija za moralnost;Iranska policija za moralo;Iran’s Morality Police;Irańska Policja Obyczajowa;Iráni Erkölcsrendészet;Iránska mravnostná polícia;Iránymutató Őrjárat;Irānas Tikumības policija;Islamic Guidance Patrol;Islamski Patrol Korekcyjny;Islamská usmerňovacia hliadka;Islāmiskās vadības patruļa;Iszlám Iránymutató Őrjárat;Patrole Korekcyjne;Police des mœurs iranienne;Policía de la moral de Irán;Polizia morale iraniana;Poliția iraniană a moralității;Polícia da Moralidade do Irão;Pulizija tal-Moralità tal-Iran;Póilíní Moráltachta na hIaráine;Vadības patruļa;islamijuhiste patrull;juhiste patrull;policija za islamsko usmjeravanje;policija za ćudoređe;usmerňovacie hliadky;Íránská mravnostní policie;Ιρανική Αστυνομία Ηθών;Иранска нравствена полиция;Патрули за ислямско напътствие;Патрули за напътствие;غشتى إرشاد"
     },
     {
+      "name": "Seyed Hadi MANSOURI",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
+      "aliases": "منصوری هادی سید"
+    },
+    {
       "name": "Doost Mohammad",
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-01-25",
@@ -8240,12 +8240,6 @@
       "aliases": "Natalja Leonidovna DESIATOVA;Наталья Леонидовна ДЕСЯТОВА;Наталя Леонідівна ДЕСЯТОВА"
     },
     {
-      "name": "Seyed Javad TAHAMI",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/1779 (OJ L228 I) - 2023-09-15",
-      "aliases": "Seyyed Javad TAHAMI;سید جواد تهامی"
-    },
-    {
       "name": "MSTA-International Maritime Registries & Regulatory Inc.",
       "schema": "Organization",
       "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
@@ -10626,6 +10620,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-02-23",
       "aliases": "Banca Rossiya;Banco Rossiya;Bank Rossija;Banka Rusko;Банк “Россия”;Банка „Русия“"
+    },
+    {
+      "name": "Seyed Javad TAHAMI",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/1779 (OJ L228 I) - 2023-09-15",
+      "aliases": "Seyyed Javad TAHAMI;سید جواد تهامی"
     },
     {
       "name": "Redbird Corporate Services Ltd",
