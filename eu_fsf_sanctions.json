@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T16:42:12.563835",
+  "generated_at": "2026-02-06T17:40:33.151437",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -9098,12 +9098,6 @@
       "aliases": "Bendrosios žvalgybos direktoratas [Sirija];Dirección de Información general [Siria];Directoraat algemene inlichtingen [Syrië];Directorat des renseignements généraux [Syrie];Direcção de Informações Gerais [Síria];Direcția informațiilor generale [Siria];Direktorat Allgemeiner Nachrichtendienst [Syrien];Direktoratet for almindelige ef-terretninger [Syrien];Direktoratet för säkerhetstjänsten [Syrien];Direttorat tal-informazzjoni ġenerali [Sirja];Direzione delle informazioni generali [Siria];Dyrekcja wywiadu ogólnego [Syria];Galvenā izlūkdienesta direktorāts [Sīrija];Pealuuredirektoraat [Süüria];Riaditeľstvo pre všeobecné spravodajstvo [Sýria];Splošna obveščevalna služba [Sirija];yleisen tiedustelun pääosasto [Syyria];Általános Hírszerzési Igazgatóság [szíria];ředitelství pro všeobecné zpravodajství [Sýrie];Διεύθυνση γενικών πληροφοριών [Συρία];Дирекция „Общо разузнаване“ [Сирия]"
     },
     {
-      "name": "PMC Tsarskie Volki",
-      "schema": "Organization",
-      "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-12-18",
-      "aliases": "Carskije volki;Carští vlci;Cári farkasok;Tsar Wolves;Tsarskie Volki katonai magánvállalat;empresa militar privada Tsarskie Volki"
-    },
-    {
       "name": "Military-patriotic centre “Vympel”",
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -10962,6 +10956,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2014-07-25",
       "aliases": "Az úgynevezett „Novorosszija Szövetségi Állam”;Așa-numitul «Stat Federal al Novorossiya»;Cosiddetto “Stato federale di Novorossiya”;Den såkaldte »Føderale Stat Novorossija«;L-hekk imsejjaħ “Federal State of Novorossiya”;L-hekk imsejjaħ “Stat Federali ta’ Novorossiya”;Novorossijan liittovaltio;O chamado “Estado Federal da Novoróssia”;Sogenannter ‚Föderaler Staat Noworossija‘;Sogenannter „Föderaler Staat Noworossija“;Soi-disant “État fédéral de Nouvelle Russie”;Tako imenovana ‚Zvezna država Novorusija‘;Takozvana 'Federalna Država Novorusija';Tzv. „Federálny štát Novorusko“;Tzv. „Federální stát Nové Rusko“;Tzw. „Federalne Państwo Noworosji”;Tā sauktā “Novorossijas federālā valsts”;Zogenaamde “Federale Staat Novorossiya”;\"el denominado \"\"Estado Federal de Novorossiya”\";s.k. ”Federala staten Novorossija”;vadinamoji federacinė Naujosios Rusijos valstybė;Αποκαλούμενη “Ομοσπονδιακή Πολιτεία της Νέας Ρωσίας”;Αυτοαποκαλούμενη “Ομοσπονδιακή Πολιτεία της Νέας Ρωσίας”;Т.нар. „Федерална държава Новорусия“;‘Federal State of Novorossiya’ mar a ghairtear de;“Federativnoye Gosudarstvo Novorossiya”;“Федеративное государство Новороссия”;„Novorossija Föderaalriik“"
+    },
+    {
+      "name": "PMC Tsarskie Volki",
+      "schema": "Organization",
+      "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-12-18",
+      "aliases": "Carskije volki;Carští vlci;Cári farkasok;Tsar Wolves;Tsarskie Volki katonai magánvállalat;empresa militar privada Tsarskie Volki"
     },
     {
       "name": "Song Il Choe",
