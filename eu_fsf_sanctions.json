@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T12:45:21.478045",
+  "generated_at": "2026-02-08T13:43:34.846697",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -9116,12 +9116,6 @@
       "aliases": "Vladimir Jurevič Zajcev;Vladimir Zaitsev;Vladimir Zajcev;Владимир Юриевич Зайцев;Владимир Юрьевич ЗАЙЦЕВ"
     },
     {
-      "name": "گلپایگانی سید محمد صالح هاشمی",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/152 (OJ L20 I) - 2023-01-23",
-      "aliases": "Seyyed Mohammed Saleh Hashemi GOLPAYEGANI"
-    },
-    {
       "name": "Natalya Aleksandrovna KAPUSTNIKOVA",
       "schema": "Person",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
@@ -11102,12 +11096,6 @@
       "aliases": "Igor Viktorovich KURILOVICH;Igor Viktorovitj KURILOVITJ;Ihar Viktaravich KURYLOVICH;Ihar Viktaravitj KURYLOVITJ;Ігар Віĸтаравіч КУРЫЛОВІЧ"
     },
     {
-      "name": "Heidar PASANDIDEH",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
-      "aliases": "حیدر پسندیده"
-    },
-    {
       "name": "Il Kyu Pak",
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2017-08-05",
@@ -11642,6 +11630,12 @@
       "aliases": "Igor Afanasjev;Igor Yurievich AFANASYEV"
     },
     {
+      "name": "Heidar PASANDIDEH",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
+      "aliases": "حیدر پسندیده"
+    },
+    {
       "name": "LLC Uvs Avia",
       "schema": "Organization",
       "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
@@ -11982,6 +11976,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Irina Ivanovna ANDRUCH;Ирина Ивановна АНДРУХ"
+    },
+    {
+      "name": "گلپایگانی سید محمد صالح هاشمی",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/152 (OJ L20 I) - 2023-01-23",
+      "aliases": "Seyyed Mohammed Saleh Hashemi GOLPAYEGANI"
     },
     {
       "name": "Дмитрий Александрович СМОЛЯГО",
