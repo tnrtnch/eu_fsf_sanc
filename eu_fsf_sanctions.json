@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T14:24:41.852404",
+  "generated_at": "2026-02-22T15:22:48.667565",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -12000,12 +12000,6 @@
       "schema": "Organization",
       "sanctions": "HR - 2024/2999 (OJ L03122024) - 2023-02-25",
       "aliases": "Al-Sarraj Mining Company Ltd;Al-Sawlaj Mining Company Ltd;Al-Soladzh Mining Company;Al-Solag;Al-Solag Mining Company;Al-Solage;Al-Sullaj;Meroe For Agricultural & Animal Production;Meroe Gold Co. Ltd.;Meroe pentru producția agricolă și animală;Solange;Sullag;Sullaj Mining Company"
-    },
-    {
-      "name": "Jacques BAUD",
-      "schema": "Person",
-      "sanctions": "RUSDA - 2025/2568 (OJ L202502568) - 2025-12-15",
-      "aliases": ""
     },
     {
       "name": "Oleg Romualdovich GERASIM",
@@ -28824,6 +28818,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 2023/329 (OJ L43I) - 2005-12-06",
       "aliases": "Abu Musab;Isnilon Totoni Hapilon;Isnilun Hapilun;Salahudin;Tuan Isnilon"
+    },
+    {
+      "name": "Jacques BAUD",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2025/2568 (OJ L202502568) - 2025-12-15",
+      "aliases": ""
     },
     {
       "name": "Vladislav Alexandrovich TRETIAK",
