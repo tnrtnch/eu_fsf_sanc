@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T20:24:54.020597",
+  "generated_at": "2026-02-22T21:22:51.358402",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -66,12 +66,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-03-02",
       "aliases": "Viktar Uladzimiravitj Sojka;Viktor Vladimirovitj Sojko;Виктор Владимирович СОЙКО;Віктар Уладзіміравіч СОЙКА"
-    },
-    {
-      "name": "IRGC",
-      "schema": "Organization",
-      "sanctions": "IRN - 267/2012 (OJ L88) - 2010-07-26",
-      "aliases": "Iranian Revolutionary Guard Corps"
     },
     {
       "name": "Murad FATHI",
@@ -14310,6 +14304,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 2023/329 (OJ L43I) - 2001-12-24",
       "aliases": "Majeed Abdul Chaudhry;Majeed Chaudhry Abdul;Majid, Abdul"
+    },
+    {
+      "name": "IRGC",
+      "schema": "Organization",
+      "sanctions": "IRN - 267/2012 (OJ L88) - 2010-07-26",
+      "aliases": "Iranian Revolutionary Guard Corps"
     },
     {
       "name": "Alexey Ivanovich GIRICHEV",
