@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T18:00:51.621548",
+  "generated_at": "2026-02-23T19:18:23.957872",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -6326,12 +6326,6 @@
       "aliases": "sociedad anónima abierta Orsha Aircraft Repair Plant;Адкрытае акцыянернае таварыства “Аршанскі авіярамонтны завод”;\"Открытое акционерное общество \"\"Оршанский авиаремонтный завод\"\"\";„Orsai Légijármű-javító Üzem” nyilvánosan működő részvénytársaság"
     },
     {
-      "name": "Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation",
-      "schema": "Organization",
-      "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
-      "aliases": "Az Oroszországi Föderáció hadseregének vezérkarán belül működő központi hírszerzési igazgatóság;Det øverste efterretningsdirektorat i generalstaben for Den Russiske Føderations væbnede styrker;Dirección Central de Inteligencia del Estado Mayor de las Fuerzas Armadas de la Federación de Rusia);Direcția principală de informații a Statului-Major al forțelor armate ale Federației Ruse;Direzione principale dell'intelligence dello Stato maggiore delle Forze armate della Federazione russa;GRU;Glavna obavještajna uprava glavnog stožera oružanih snaga Ruske Federacije;Główny zarząd wywiadu sztabu generalnego sił zbrojnych Federacji Rosyjskie;Hauptverwaltung für Aufklärung beim Generalstab der Streitkräfte der Russischen Föderation;Hlavné riaditeľstvo spravodajskej služby generálneho štábu ozbrojených síl Ruskej federácie;Hoofddirectoraat inlichtingen van de generale staf van de strijdkrachten van de Russische Federatie;Rusijos Federacijos ginkluotųjų pajėgų generalinio štabo Vyriausioji žvalgybos valdyba;Venemaa Föderatsiooni relvajõudude kindralstaabi luure peavalitsus;Venäjän federaation asevoimien yleisesikunnan tiedusteluosasto;centrala underrättelsedirektoratet vid generalstaben vid Ryska federationens försvarsmak;direction générale du renseignement de l’état-major des forces armées de la Fédération de Russie;Κεντρική Διεύθυνση Πληροφοριών του Γενικού Επιτελείου των Ενόπλων Δυνάμεων της Ρωσικής Ομοσπονδίας;ГРУ;Главное разведывательное управление Генерального штаба Вооружённых сил Российской Федерации"
-    },
-    {
       "name": "Myanma Oil and Gas Enterprise",
       "schema": "Organization",
       "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
@@ -6384,6 +6378,12 @@
       "schema": "Organization",
       "sanctions": "BLR - 2022/876 (OJ L153) - 2022-06-03",
       "aliases": "Baltarusijos Respublikos nacionalinė valstybinė televizijos ir radijo bendrovė;Belteleradio bendrovė;Empresa Belteleradio/Empresa Nacional de Televisão e Rádio da República da Bielorrússia;Nacionalna državna radiotelevizija Republike Bjelarusa;National State TV and Radio Company of the Republic of Belarus;Nationales staatliches Fernseh- und Hörfunkunternehmen der Republik Belarus;Poduzeće Belteleradio;Societatea Națională de Stat de Televiziune și Radio a Republicii Belarus;Società Belteleradio;Státní televizní a rozhlasová společnost Běloruské republiky;Valgevene Vabariigi riiklik televisiooni- ja raadioringhäälingu ettevõte;compagnie nationale de télévision et de radio d’État de la République de Biélorussie;compañía nacional de radiotelevisión pública de la República de Bielorrusia;cuideachta stáit náisiúnta teilifíse agus raidió Phoblacht na Bealarúise;nacionalna državna radiotelevizija Republike Belorusije;nationale staatstelevisie- en -radio-omroep van de Republiek Belarus;società radiotelevisiva pubblica della Repubblica di Bielorussia;Εθνική Κρατική Τηλεόραση και Ραδιοφωνία της Δημοκρατίας της Λευκορωσίας;Белтелерадиокомпания;Белтэлерадыёкампанiя;Национальная государственная телерадиокомпания Республики Беларусь;Нацыянальная дзяржаўная тэлерадыёкампанiя Рэспублiкi Беларусь"
+    },
+    {
+      "name": "Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation",
+      "schema": "Organization",
+      "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
+      "aliases": "Az Oroszországi Föderáció hadseregének vezérkarán belül működő központi hírszerzési igazgatóság;Det øverste efterretningsdirektorat i generalstaben for Den Russiske Føderations væbnede styrker;Dirección Central de Inteligencia del Estado Mayor de las Fuerzas Armadas de la Federación de Rusia);Direcția principală de informații a Statului-Major al forțelor armate ale Federației Ruse;Direzione principale dell'intelligence dello Stato maggiore delle Forze armate della Federazione russa;GRU;Glavna obavještajna uprava glavnog stožera oružanih snaga Ruske Federacije;Główny zarząd wywiadu sztabu generalnego sił zbrojnych Federacji Rosyjskie;Hauptverwaltung für Aufklärung beim Generalstab der Streitkräfte der Russischen Föderation;Hlavné riaditeľstvo spravodajskej služby generálneho štábu ozbrojených síl Ruskej federácie;Hoofddirectoraat inlichtingen van de generale staf van de strijdkrachten van de Russische Federatie;Rusijos Federacijos ginkluotųjų pajėgų generalinio štabo Vyriausioji žvalgybos valdyba;Venemaa Föderatsiooni relvajõudude kindralstaabi luure peavalitsus;Venäjän federaation asevoimien yleisesikunnan tiedusteluosasto;centrala underrättelsedirektoratet vid generalstaben vid Ryska federationens försvarsmak;direction générale du renseignement de l’état-major des forces armées de la Fédération de Russie;Κεντρική Διεύθυνση Πληροφοριών του Γενικού Επιτελείου των Ενόπλων Δυνάμεων της Ρωσικής Ομοσπονδίας;ГРУ;Главное разведывательное управление Генерального штаба Вооружённых сил Российской Федерации"
     },
     {
       "name": "Artyom Aleksandrovich CHERNOV",
