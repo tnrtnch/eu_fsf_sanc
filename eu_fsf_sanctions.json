@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T08:46:29.175799",
+  "generated_at": "2026-02-25T09:53:14.288457",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -10754,12 +10754,6 @@
       "aliases": "Amnokkang Development Bank;Amroggang Development Banking Corporation"
     },
     {
-      "name": "Zala Aero Group",
-      "schema": "Organization",
-      "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-12-18",
-      "aliases": "Cuideachta faoi Dhliteanas Teoranta;LLC “CST”;SOCIÉTÉ À RESPONSABILITÉ LIMITÉE “CST”;ZALA Aero;sociedad de responsabilidad limitada CST;ООО “ЦСТ”;„CST” KFT."
-    },
-    {
       "name": "JSC VOENTORG",
       "schema": "Organization",
       "sanctions": "UKR - 2022/878 (OJ L153) - 2022-06-03",
@@ -12150,6 +12144,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "AO “МПО – Гидроприбор”;TENGERI ÉS VÍZ ALATTI FEGYVEREK – GIDROPRIBOR RT."
+    },
+    {
+      "name": "Zala Aero Group",
+      "schema": "Organization",
+      "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-12-18",
+      "aliases": "Cuideachta faoi Dhliteanas Teoranta;LLC “CST”;SOCIÉTÉ À RESPONSABILITÉ LIMITÉE “CST”;ZALA Aero;sociedad de responsabilidad limitada CST;ООО “ЦСТ”;„CST” KFT."
     },
     {
       "name": "Hassan BABAEI",
